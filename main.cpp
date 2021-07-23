@@ -73,7 +73,7 @@ void opcion1() {
 		total = total + formula; // se acumula el valor
 		i++;
 	}
-	cout<<total<<endl;
+	cout<<"La respuesta es: "<<total<<endl;
 }
 
 void opcion2() {
